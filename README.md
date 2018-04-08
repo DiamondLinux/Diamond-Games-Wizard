@@ -1,5 +1,5 @@
-# Games-Wizard
-Games-Wizard
+# Diamond-Games-Wizard
+Diamond-Games-Wizard
 
 Would you like to play a games? - DosBox, Nintendo, Sega MD, Sony PS - Emulators...
 
