@@ -18,10 +18,10 @@ Install:
 
 Play:
 
-    /home/$USER/Games/
+    /home/$USER/Games.D/
     or "Kickoff" > "Applications" -> "Games" ->... 
 
 Help:
 
-    Double-Click /home/$USER/Games/HowToPlay
+    Double-Click /home/$USER/Games.D/HowToPlay
     or Double-Click /usr/share/dmnd/games/sys/HowTo
