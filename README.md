@@ -9,7 +9,7 @@ Install:
 
     1. Downloads and install dmd_gameswizard_*_all.deb {GDebi Package Installer}
     2. Click "Kickoff" > "Applications" -> "Games" -> Games Emulators Setup
-       or Double-Click /usr/share/dmnd/games/apps/Games-Wizard-Setup
+       or Double-Click /usr/share/applications/games-wizard-setup.desktop
   
 
 Play:
