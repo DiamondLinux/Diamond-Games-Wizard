@@ -1,7 +1,7 @@
 # Diamond-Games-Wizard
 For Diamond Linux amd64 GrandMaster Gen5, Diamond Linux amd64 GrandMaster Gen4, Diamond Linux i386 Master Gen4
 
-Would you like to play a games? - DosBox, Nintendo, Sega MD, Sony PS , Dune2000, Command & Conquer, RedAlert
+Would you like to play a games? - DosBox, Nintendo, Sega MD, Sony PS , Dune2000, Command & Conquer, RedAlert ...
 
 HowTo:
 
