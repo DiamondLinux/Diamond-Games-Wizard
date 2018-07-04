@@ -39,7 +39,7 @@ DosBOX
        Fullscreen: "Alt + Enter"
        Release the mouse: "RightCTRL + F10"
        'C:\ Virtual Drive': /home/$USER/Games.D/Source/DosBOX/
-______________________________________________________________
+
 Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
  HowTo:
  
@@ -50,7 +50,7 @@ Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
        Config: Click "Options" -> "Gamepad Config"
        Fullscreen: "Alt + Enter"
        Games "*.nes" folder: /home/$USER/Games.D/Source/NES/Games.nes/
-______________________________________________________________
+
 Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
  HowTo:
  
@@ -61,7 +61,7 @@ Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
        Config: Click "Options" -> "Joypads..."
        Fullscreen: "Alt + Enter"
        Games "*.gen" folder: /home/$USER/Games.D/Source/SegaMD/Games.sega/
-______________________________________________________________
+
 Sony Play Station [SonyPS] - PCSXR (Gen#4,Gen5#)
  HowTo:
  
