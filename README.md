@@ -6,7 +6,8 @@ System requirements:
     Diamond Linux i386 Master Gen4
 
 Diamond Games Wizard:
-Click "Kickoff" > "Applications" -> "Games" -> "Games-Wizard-Setup"
+
+    Click "Kickoff" > "Applications" -> "Games" -> "Games-Wizard-Setup"
 
 DPoL Collection (Gen#5)
  HowTo:
