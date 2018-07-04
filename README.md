@@ -1,27 +1,65 @@
-# Diamond-Games-Wizard
+# Diamond-Games-Wizard 0.1-7
 System requirements: 
 
     Diamond Linux amd64 GrandMaster Gen5
     Diamond Linux amd64 GrandMaster Gen4
     Diamond Linux i386 Master Gen4
 
-Would you like to play a games? - DosBox, Nintendo, Sega MD, Sony PS , Dune2000, Command & Conquer, RedAlert ...
+Diamond Games Wizard:
 
-HowTo:
+DPoL Collection (Gen#5)
+ HowTo:
+        1. Double-Click Home --> Games.D/DPoL/ [DPoL_Diablo2-LoD, DPoL_Diablo2-MXL]
+        2. Double-Click Home --> Games.D/DPoL/_PlayOnLinux
+        3. Click "Kickoff" > "Applications" -> "Games" -> "PlayOnLinux"
+______________________________________________________________
+OpenRA (Gen#4,Gen#5)
+ HowTo:
+       1. Double-Click Home --> Games.D/Strategy/OpenRA/ [C&C, Dune2k, RedAlert]
+       or Click "Kickoff" > "Applications" -> "Games" -> "Tactics & Strategy" -> [C&C, Dune2k, RedAlert]
+       
+ ?Screen Resolution: "."
+______________________________________________________________ 
+HighSchool Collection (Gen#4,Gen#5)
+ HowTo:
+        1. Double-Click Home --> Games.D/HighSchool/ [Doom, Duke]
 
-Install:
+______________________________________________________________ 
+OldSchool Collection (Gen#4,Gen#5)
 
-    1. Downloads and install dmd_games-wizard_*_all.deb {GDebi Package Installer}
-    2. Click "Kickoff" > "Applications" -> "Games" -> Games Wizard Setup
-       or Double-Click /usr/share/applications/games-wizard-setup.desktop
-  
-
-Play:
-
-    /home/$USER/Games.D/
-    or "Kickoff" > "Applications" -> "Games" ->... 
-
-Help:
-
-    Double-Click /home/$USER/Games.D/HowToPlay
-    or Double-Click /usr/share/dmnd/games/sys/HowTo
+DosBOX
+ HowTo:
+       1. Double-Click Home --> Games.D/OldSchool/DosBOX
+       or Click "Kickoff" > "Applications" -> "Games" -> "DOSBox..."
+ Fullscreen: "Alt + Enter"
+ Release the mouse: "RightCTRL + F10"
+ 'C:\ Virtual Drive': /home/$USER/Games.D/Source/DosBOX/
+______________________________________________________________
+Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
+ HowTo:
+       1. Double-Click Home --> Games.D/OldSchool/NintendoES
+       or Click "Kickoff" > "Applications" -> "Games" -> "NES..."
+       2. Click "File" -> "Open ROM"
+       2.1 Click "*.nes" file -> Click "Open"
+ Config: Click "Options" -> "Gamepad Config"
+ Fullscreen: "Alt + Enter"
+ Games "*.nes" folder: /home/$USER/Games.D/Source/NES/Games.nes/
+______________________________________________________________
+Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
+ HowTo:
+       1. Double-Click Home --> Games.D/OldSchool/SegaMD
+       or Click "Kickoff" > "Applications" -> "Games" -> "Sega..."
+       2. Click "File" -> "Open ROM..."
+       2.1 Click "*.gen" file -> Click "Open"
+ Config: Click "Options" -> "Joypads..."
+ Fullscreen: "Alt + Enter"
+ Games "*.gen" folder: /home/$USER/Games.D/Source/SegaMD/Games.sega/
+______________________________________________________________
+Sony Play Station [SonyPS] - PCSXR (Gen#4,Gen5#)
+ HowTo:
+       1. Double-Click Home --> Games.D/OldSchool/SonyPS
+       or Click "Kickoff" > "Applications" -> "Games" -> "PlayStation..."
+       3. Click "File" -> "Run ISO..."
+       3.1 Choose a ImageGame -> "OK"
+ Stop the emulation: Press "Escape"
+ Remove ImageGame: Click "Emulator" -> "Shutdown"
