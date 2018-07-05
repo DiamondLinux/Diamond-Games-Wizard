@@ -12,8 +12,8 @@ Diamond Games Wizard:
 DPoL Collection (Gen#5)
  
         1. Double-Click Home --> Games.D/DPoL/ [DPoL_Diablo2-LoD, DPoL_Diablo2-MXL]
-        2. Double-Click Home --> Games.D/DPoL/_PlayOnLinux
-        3. Click "Kickoff" > "Applications" -> "Games" -> "PlayOnLinux"
+        or Double-Click Home --> Games.D/DPoL/_PlayOnLinux
+        or Click "Kickoff" > "Applications" -> "Games" -> "PlayOnLinux"
 ______________________________________________________________        
 OpenRA (Gen#4,Gen#5)
  
