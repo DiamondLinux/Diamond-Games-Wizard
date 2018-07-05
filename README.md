@@ -1,4 +1,4 @@
-# Diamond-Games-Wizard 0.1-8
+# Diamond-Games-Wizard 0.1-9
 System requirements: 
 
     Diamond Linux amd64 GrandMaster Gen5
