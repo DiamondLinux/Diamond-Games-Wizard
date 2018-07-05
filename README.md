@@ -10,14 +10,12 @@ Diamond Games Wizard:
     Click "Kickoff" > "Applications" -> "Games" -> "Games-Wizard-Setup"
 
 DPoL Collection (Gen#5)
- HowTo:
  
         1. Double-Click Home --> Games.D/DPoL/ [DPoL_Diablo2-LoD, DPoL_Diablo2-MXL]
         2. Double-Click Home --> Games.D/DPoL/_PlayOnLinux
         3. Click "Kickoff" > "Applications" -> "Games" -> "PlayOnLinux"
 ______________________________________________________________        
 OpenRA (Gen#4,Gen#5)
- HowTo:
  
        1. Double-Click Home --> Games.D/Strategy/OpenRA/ [C&C, Dune2k, RedAlert]
        or Click "Kickoff" > "Applications" -> "Games" -> "Tactics & Strategy" -> [C&C, Dune2k, RedAlert]
@@ -25,14 +23,12 @@ OpenRA (Gen#4,Gen#5)
        ?Screen Resolution: "."
 ______________________________________________________________ 
 HighSchool Collection (Gen#4,Gen#5)
- HowTo:
  
         1. Double-Click Home --> Games.D/HighSchool/ [Doom, Duke]
 ______________________________________________________________ 
 OldSchool Collection (Gen#4,Gen#5)
 
 DosBOX
- HowTo:
  
        1. Double-Click Home --> Games.D/OldSchool/DosBOX
        or Click "Kickoff" > "Applications" -> "Games" -> "DOSBox..."
@@ -41,7 +37,6 @@ DosBOX
        'C:\ Virtual Drive': /home/$USER/Games.D/Source/DosBOX/
 
 Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
- HowTo:
  
        1. Double-Click Home --> Games.D/OldSchool/NintendoES
        or Click "Kickoff" > "Applications" -> "Games" -> "NES..."
@@ -52,7 +47,6 @@ Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
        Games "*.nes" folder: /home/$USER/Games.D/Source/NES/Games.nes/
 
 Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
- HowTo:
  
        1. Double-Click Home --> Games.D/OldSchool/SegaMD
        or Click "Kickoff" > "Applications" -> "Games" -> "Sega..."
@@ -63,7 +57,6 @@ Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
        Games "*.gen" folder: /home/$USER/Games.D/Source/SegaMD/Games.sega/
 
 Sony Play Station [SonyPS] - PCSXR (Gen#4,Gen5#)
- HowTo:
  
        1. Double-Click Home --> Games.D/OldSchool/SonyPS
        or Click "Kickoff" > "Applications" -> "Games" -> "PlayStation..."
