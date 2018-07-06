@@ -1,66 +1,59 @@
 # Diamond-Games-Wizard 0.1-10
-System requirements: 
+06.07.2018 [0.1-10]
 
-    Diamond Linux amd64 GrandMaster Gen5
-    Diamond Linux amd64 GrandMaster Gen4
-    Diamond Linux i386 Master Gen4
+    [Changes] - DPoL installation script
 
-Diamond Games Wizard:
+05.07.2018 [0.1-9]
 
-    Click "Kickoff" > "Applications" -> "Games" -> "Games-Wizard-Setup"
+    [Addition] - Duke Nukem 3D: High Resolution Pack
+                 http://hrp.duke4.net/
 
-DPoL Collection (Gen#5)
- 
-        1. Double-Click Home --> Games.D/DPoL/ [DPoL_Diablo2-LoD, DPoL_Diablo2-MXL]
-        or Double-Click Home --> Games.D/DPoL/_PlayOnLinux
-        or Click "Kickoff" > "Applications" -> "Games" -> "PlayOnLinux"
-______________________________________________________________        
-OpenRA (Gen#4,Gen#5)
- 
-       1. Double-Click Home --> Games.D/Strategy/OpenRA/ [C&C, Dune2k, RedAlert]
-       or Click "Kickoff" > "Applications" -> "Games" -> "Tactics & Strategy" -> [C&C, Dune2k, RedAlert]
-       
-       ?Screen Resolution: "."
-______________________________________________________________ 
-HighSchool Collection (Gen#4,Gen#5)
- 
-        1. Double-Click Home --> Games.D/HighSchool/ [Doom, Duke]
-______________________________________________________________ 
-OldSchool Collection (Gen#4,Gen#5)
+05.07.2018 [0.1-8]
 
-DosBOX
- 
-       1. Double-Click Home --> Games.D/OldSchool/DosBOX
-       or Click "Kickoff" > "Applications" -> "Games" -> "DOSBox..."
-       Fullscreen: "Alt + Enter"
-       Release the mouse: "RightCTRL + F10"
-       'C:\ Virtual Drive': /home/$USER/Games.D/Source/DosBOX/
+    [Fixed] - bug: DosBOX - base configuration not apply
+              bug: DPoL - D2LoD,D2MXL - not correct download folder
 
-Nintendo Entertainment System [NintendoES] - FCEUX (Gen#4,Gen#5)
- 
-       1. Double-Click Home --> Games.D/OldSchool/NintendoES
-       or Click "Kickoff" > "Applications" -> "Games" -> "NES..."
-       2. Click "File" -> "Open ROM"
-       2.1 Click "*.nes" file -> Click "Open"
-       Config: Click "Options" -> "Gamepad Config"
-       Fullscreen: "Alt + Enter"
-       Games "*.nes" folder: /home/$USER/Games.D/Source/NES/Games.nes/
+02.07.2018
 
-Sega Mega Drive [SegaMD]- GENS (Gen#4,Gen#5)
- 
-       1. Double-Click Home --> Games.D/OldSchool/SegaMD
-       or Click "Kickoff" > "Applications" -> "Games" -> "Sega..."
-       2. Click "File" -> "Open ROM..."
-       2.1 Click "*.gen" file -> Click "Open"
-       Config: Click "Options" -> "Joypads..."
-       Fullscreen: "Alt + Enter"
-       Games "*.gen" folder: /home/$USER/Games.D/Source/SegaMD/Games.sega/
+    #DPoL Collection
+     Diablo2-LoD
+     Diablo2-MXL
 
-Sony Play Station [SonyPS] - PCSXR (Gen#4,Gen5#)
- 
-       1. Double-Click Home --> Games.D/OldSchool/SonyPS
-       or Click "Kickoff" > "Applications" -> "Games" -> "PlayStation..."
-       3. Click "File" -> "Run ISO..."
-       3.1 Choose a ImageGame -> "OK"
-       Stop the emulation: Press "Escape"
-       Remove ImageGame: Click "Emulator" -> "Shutdown"
+24.04.2018
+
+    #HighSchool Collection
+    Doom, Duke
+
+    https://zandronum.com/
+    http://www.moddb.com/mods/brutal-doom
+    http://www.eduke32.com/
+
+08.04.2018
+
+    #OpenRA Project
+
+    http://www.openra.net/
+
+19.03.2018
+
+    #DosBOX
+
+    https://wikipedia.org/wiki/DOSBox
+
+    https://www.dosbox.com/
+
+    #FCEUX
+
+    https://wikipedia.org/wiki/FCEUX
+
+    http://www.fceux.com/web/home.html
+
+    #GENS
+
+    http://www.gens.me/
+
+    #PCSXR
+
+    https://wikipedia.org/wiki/PCSX-Reloaded
+
+    https://archive.codeplex.com/?p=pcsxr
