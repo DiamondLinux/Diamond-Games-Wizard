@@ -1,4 +1,4 @@
-# Diamond-Games-Wizard 0.1-10
+# Diamond-Games-Wizard 0.1-11
 12.07.2018 [0.1-11]
     
     [Fixed] - config eduke32 {r_showfps "1"}
