@@ -1,4 +1,8 @@
 # Diamond-Games-Wizard 0.1-10
+12.07.2018 [0.1-11]
+    
+    [Fixed] - config eduke32 {r_showfps "1"}
+
 06.07.2018 [0.1-10]
 
     [Changes] - DPoL installation script
