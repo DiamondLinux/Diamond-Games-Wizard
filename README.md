@@ -2,8 +2,7 @@
 13.07.2018 [0.1-12]
 
     [Addition] - HighSchool Collection
-                 Quake1
-             
+                 Quake1             
                  https://ezquake.github.io/
 
 12.07.2018 [0.1-11]
