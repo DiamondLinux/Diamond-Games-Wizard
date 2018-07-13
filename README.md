@@ -4,7 +4,7 @@
     [Addition] - HighSchool Collection
                  Quake1
              
-    https://ezquake.github.io/
+                 https://ezquake.github.io/
 
 12.07.2018 [0.1-11]
     
