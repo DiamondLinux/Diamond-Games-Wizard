@@ -1,4 +1,4 @@
-# Diamond-Games-Wizard 0.1-11
+# Diamond-Games-Wizard 0.1-12
 13.07.2018 [0.1-12]
 
     [Addition] - HighSchool Collection
