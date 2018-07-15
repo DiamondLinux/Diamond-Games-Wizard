@@ -1,4 +1,9 @@
-# Diamond-Games-Wizard 0.1-12
+# Diamond-Games-Wizard 0.1-13
+15.07.2018 [0.1-13]
+    
+    [Addition] - DPoL Collection
+                 Quake2 + Berserker
+
 13.07.2018 [0.1-12]
 
     [Addition] - HighSchool Collection
