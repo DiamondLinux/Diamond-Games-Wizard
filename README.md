@@ -4,7 +4,7 @@
     
     [Addition] - DPoL Collection
                  Counter Strike 1.6
-                 MechWarrior3
+                 Mech Warrior3
                  Diamond-ScreenResolutionWizard [https://store.kde.org/p/1249902/]
 
 15.07.2018 [0.1-13]
