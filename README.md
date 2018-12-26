@@ -1,4 +1,7 @@
-# Diamond-Games-Wizard 0.1-14
+# Diamond-Games-Wizard 0.1-15
+26.12.2018 .[0.1-15]
+
+    [Fixed] - some FrameWork errors
 
 30.07.2018 [0.1-14]
     
